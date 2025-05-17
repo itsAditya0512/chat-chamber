@@ -15,4 +15,4 @@
    npm run dev
    
 **5. To build the project :**
-   npm run build
+   npm run build  
